@@ -43,10 +43,25 @@ K_2^{\infty} =    \begin{bmatrix}
 ```
 
 ## Results
-| Convergence of the proposed algorithm        |
+| Convergence of the optimal control matrix (Off-Policy)        |
 | ------------- |
 | <img src="./Gif/K1.gif" alt="drawing" width="400"/>      | 
 
-| Output result       |
+| Convergence of the optimal control matrix (Off-Policy)       |
 | ------------- |
 | <img src="./Gif/K2.gif" alt="drawing" width="400"/>      | 
+
+
+## How to use my code
+
+With my code, you can:
+
+* **Off-Policy Algorithm** by running `OffPolicyRLforNZSG.m`
+* **Off-Policy Algorithm Result Animation** by running `Animation.m`
+
+## Docker
+I will provide DockerFile soon.
+
+## Requirements
+
+* **Matlab**
